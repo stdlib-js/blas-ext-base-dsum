@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
@@ -29,7 +63,7 @@ This release closes the following issue:
 -   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`f2da861`](https://github.com/stdlib-js/stdlib/commit/f2da861137486a776999be1166e6f6c84b8e52fd) - **build:** fix missing deps _(by Athan Reines)_
 -   [`ceb4943`](https://github.com/stdlib-js/stdlib/commit/ceb494351d42c2505e559a2c8aad9a120c76d0db) - **docs:** remove comments _(by Athan Reines)_
--   [`d70b5c2`](https://github.com/stdlib-js/stdlib/commit/d70b5c2412d631ed577a3f9c7cd22457302385e3) - **refactor:** update `blas/ext/base/dsum` to follow current project conventions [(#1807)](https://github.com/stdlib-js/stdlib/pull/1807) _(by Rutam, Athan Reines)_
+-   [`d70b5c2`](https://github.com/stdlib-js/stdlib/commit/d70b5c2412d631ed577a3f9c7cd22457302385e3) - **refactor:** update `blas/ext/base/dsum` to follow current project conventions [(#1807)](https://github.com/stdlib-js/stdlib/pull/1807) _(by Rutam Kathale, Athan Reines)_
 
 </details>
 
@@ -45,7 +79,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 -   Athan Reines
 -   Philipp Burckhardt
--   Rutam
+-   Rutam Kathale
 
 </section>
 
