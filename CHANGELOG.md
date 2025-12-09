@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-04)
+## Unreleased (2025-12-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2b8dee8`](https://github.com/stdlib-js/stdlib/commit/2b8dee8d46327dd7568afb783450c1d648341495) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsum` [(#8907)](https://github.com/stdlib-js/stdlib/pull/8907) _(by Krishna Awasthi)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9bfb869`](https://github.com/stdlib-js/stdlib/commit/9bfb8691fc945a8e38c592d0e387c84aa31d8585) - **test:** add signed zero tests _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
@@ -38,10 +39,11 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gururaj Gurram
+-   Krishna Awasthi
 -   Muhammad Haris
 -   Philipp Burckhardt
 
