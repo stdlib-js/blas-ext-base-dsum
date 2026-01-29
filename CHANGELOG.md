@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-29)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`2b8dee8`](https://github.com/stdlib-js/stdlib/commit/2b8dee8d46327dd7568afb783450c1d648341495) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsum` [(#8907)](https://github.com/stdlib-js/stdlib/pull/8907) _(by Krishna Awasthi)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9bfb869`](https://github.com/stdlib-js/stdlib/commit/9bfb8691fc945a8e38c592d0e387c84aa31d8585) - **test:** add signed zero tests _(by Athan Reines)_
